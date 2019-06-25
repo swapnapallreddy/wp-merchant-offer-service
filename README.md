@@ -1,1 +1,0 @@
-# wp-merchant-offer-service
